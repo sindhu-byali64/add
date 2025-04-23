@@ -8,5 +8,7 @@
 
         System.out.println("Addition: " + addition);
         System.out.println("Subtraction: " + subtraction);
+        System.out.println("multiplication: " + (num1*num2));
+        System.out.println("div: " + (num1/num2));
     }
 }
